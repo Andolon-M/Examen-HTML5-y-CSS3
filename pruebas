@@ -1,0 +1,24 @@
+<div>
+
+    <img src="" alt="">
+</div>
+<div>
+    <h1 class="producto_nombre ">
+        Chaqueta Impermeable En Gabán Para Dama
+    </h1>
+    <ul class="producto_tallas ">
+        <li><a href="#">s</a></li>
+        <li><a href="#">m</a></li>
+        <li><a href="#">l</a></li>
+    </ul>
+    <p class="producto_descripcion">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem quis
+        laboriosam suscipit illum. Dignissimos magni repellendus consequuntur, impedit atque quos,
+        accusamus nisi, unde dolorum itaque tempora provident! Placeat, adipisci eius!</p>
+    <div class="precio_producto">
+        <h1>$100,900</h1>
+        <h5>$99,900</h5>
+    </div>
+    <button class="boton_producto">
+        <span>optener</span>
+    </button>
+</div>

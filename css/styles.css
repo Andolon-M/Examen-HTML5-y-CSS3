@@ -1,0 +1,8 @@
+@import url('variables.css');
+
+
+*{
+    background: var(--color-base);
+    margin: 0 0;
+    padding: 0 0;
+}
